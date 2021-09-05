@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net5.0",
+    "\\bin\\Release",
+    "\\Controllers",
+    "\\Entities",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\Properties"
+  ],
+  "PreviewInSolutionExplorer": false
+}
