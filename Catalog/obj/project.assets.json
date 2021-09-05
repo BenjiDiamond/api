@@ -200,11 +200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice\\APIdotnet\\Catalog\\Catalog.csproj",
+      "projectUniqueName": "D:\\Practice\\api\\Catalog\\Catalog.csproj",
       "projectName": "Catalog",
-      "projectPath": "D:\\Practice\\APIdotnet\\Catalog\\Catalog.csproj",
+      "projectPath": "D:\\Practice\\api\\Catalog\\Catalog.csproj",
       "packagesPath": "C:\\Users\\Ben\\.nuget\\packages\\",
-      "outputPath": "D:\\Practice\\APIdotnet\\Catalog\\obj\\",
+      "outputPath": "D:\\Practice\\api\\Catalog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
